@@ -15,7 +15,7 @@ The aim of this project is to design and implement an automated backup and recov
    
 2. **Backup Implementation**:
    - Developed a T-SQL script to perform a full backup of the `InventoryDB`.
-   - Automated the backup process using SQL Server Agent (or Windows Task Scheduler for SQL Server Express) to ensure regular backups.
+   - Automated the backup process using SQL Server Agent to ensure regular backups.
 
 3. **Disaster Recovery Testing**:
    - Simulated a database failure by dropping the `Products` table.
@@ -31,4 +31,4 @@ The aim of this project is to design and implement an automated backup and recov
 ## Challenges
 - Ensuring that the backup process runs smoothly without interruptions.
 - Verifying that the restoration process works as expected after a simulated failure.
-- Managing the SQL Server Agent or Task Scheduler to maintain a consistent backup schedule.
+- Managing the SQL Server Agent to maintain a consistent backup schedule.
