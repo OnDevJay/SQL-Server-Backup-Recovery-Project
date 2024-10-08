@@ -2,7 +2,7 @@
 Project demonstrating automated backup and recovery procedures for SQL Server databases
 
 ## Aim
-The aim of this project is to design and implement an automated backup and recovery system for SQL Server databases, ensuring data integrity, availability, and minimal downtime. By establishing robust backup procedures, the project seeks to provide a reliable method for restoring the database in case of failure, enhancing overall data management.
+The aim of this project is to design and implement an automated backup and recovery system for SQL Server databases, ensuring data integrity, availability, and minimal downtime. By establishing backup procedures, the project seeks to provide a reliable method for restoring the database in case of failure, enhancing overall data management.
 
 ## Key Stakeholders
 - **Database Administrators**: Responsible for managing the database and ensuring data integrity and availability.
