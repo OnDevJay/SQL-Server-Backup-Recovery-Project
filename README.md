@@ -32,3 +32,10 @@ The aim of this project is to design and implement an automated backup and recov
 - Ensuring that the backup process runs smoothly without interruptions.
 - Verifying that the restoration process works as expected after a simulated failure.
 - Managing the SQL Server Agent to maintain a consistent backup schedule.
+
+## Tools Used
+- Microsoft SQL Server: For database management and backup processes.
+- SQL Server Management Studio (SSMS): For configuring and testing backup and recovery strategies.
+- SQL Server Agent: To automate scheduled backups.
+- Windows Task Scheduler: For additional automation and monitoring.
+- PowerShell: For scripting backup validation and automation tasks.
